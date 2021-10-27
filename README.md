@@ -1,4 +1,4 @@
-Live preview : https://eq537.csb.app/
+Live preview : 
 
 To change the picture edit the 79th line of "script.js".
 
